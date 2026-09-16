@@ -1,2 +1,3 @@
 # wiki.leutschenbach.ch
-Nachschlagewerk Wohnsiedlung Leutschenbach
+
+Verein Siedlung Leutschenbach Wiki Site

@@ -1,0 +1,20 @@
+title: Wiki Siedlung Leutschenbach
+description: Nachschlagewerk für die Wohnsiedlung Leutschenbach
+url: "https://wiki.leutschenbach.ch"
+baseurl: ""
+
+remote_theme: leutschenbach/just-the-docs
+
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+aux_links:
+  "Webseite Verein":
+    - "https://www.leutschenbach.ch"
+aux_links_new_tab: true
+
+plugins:
+  - jekyll-remote-theme
