@@ -1,7 +1,6 @@
 title: Wiki Siedlung Leutschenbach
 description: Nachschlagewerk für die Wohnsiedlung Leutschenbach
 url: "https://wiki.leutschenbach.ch"
-baseurl: ""
 
 remote_theme: leutschenbach/just-the-docs
 
